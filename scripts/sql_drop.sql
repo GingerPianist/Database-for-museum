@@ -1,0 +1,16 @@
+DROP TABLE Ceny_wywolawcze;
+DROP TABLE Wymiany;
+DROP TABLE Muzea;
+DROP TABLE Style_Dziela;
+DROP TABLE Style;
+DROP TABLE Dziela_Wystawy;
+DROP TABLE Wystawy;
+DROP TABLE Filie;
+DROP TABLE Dziela_Aukcje;
+DROP TABLE Oferty;
+DROP TABLE Aukcje;
+DROP TABLE Klienci;
+DROP TABLE Dziela_sztuki;
+DROP TABLE Autorzy;
+Drop table MozliweUlice;
+Drop table MozliweTypyDziel;
